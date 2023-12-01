@@ -1,3 +1,2 @@
-# Object-Detection-Tracking
-Task-2
-CodingRaja AI Internship
+# pedestrianDetection
+Pedestrian Detection using HOG - Available on Colab
